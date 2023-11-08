@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irfandfr
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React and SCSS
+- 👀 I’m a Frontend Development w/ 3yrs of experience now 
+- 🌱 Endlessly learning Javascript, React, Next.js and CSS. Also new to Vue!
 - 📫 you can reach me at irfandfr@gmail.com :)
 
 <!---
