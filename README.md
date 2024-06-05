@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irfandfr
-- 👀 I’m a Frontend Developer w/ 3yrs of experience now 
+- 👀 I’m a Frontend Developer Web Developer
 - 🌱 Endlessly learning Javascript, React, Next.js and CSS. Also new to Vue!
 - 📫 you can reach me at irfandfr@gmail.com :)
 
